@@ -10,9 +10,13 @@ multi-tenant SaaS platforms and production web applications.
 - PHP, WordPress and Drupal ecosystems
 
 ## Selected work
-- CV / portfolio
-- AI SaaS reference architecture
-- Vue application with unit and E2E testing
+
+- [Professional CV & Portfolio](https://github.com/farshidpourlatifi/cv)  
+  Astro-based responsive portfolio with accessible UI, interactive animations and automated deployment.
+- [SaaS Project Starter](https://github.com/farshidpourlatifi/saas-project)  
+  Full-stack SaaS starter using NestJS, Vue, shared TypeScript types and Jenkins-based deployment.
+- [Jibble Movies](https://github.com/farshidpourlatifi/jibble-movies)  
+  Vue 3 and TypeScript application with Pinia, Vitest, Cypress and automated Firebase deployment.
 
 ## Engineering interests
 Architecture · Testing · AI integration · Developer experience
